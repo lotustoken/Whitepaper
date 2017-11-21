@@ -1,4 +1,4 @@
-# Lotus Token Network
+# Lotus Token
 # Whitepaper
 
 Initial commits by: Samuel T Sendon II
